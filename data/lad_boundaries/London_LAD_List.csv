@@ -1,0 +1,34 @@
+﻿LAD22CD,LAD22NM,IOL22CD,IOL22NM,ObjectId
+E09000001,City of London,E13000001,Inner London,1
+E09000002,Barking and Dagenham,E13000002,Outer london,2
+E09000003,Barnet,E13000002,Outer london,3
+E09000004,Bexley,E13000002,Outer london,4
+E09000005,Brent,E13000002,Outer london,5
+E09000006,Bromley,E13000002,Outer london,6
+E09000007,Camden,E13000001,Inner London,7
+E09000008,Croydon,E13000002,Outer london,8
+E09000009,Ealing,E13000002,Outer london,9
+E09000010,Enfield,E13000002,Outer london,10
+E09000011,Greenwich,E13000002,Outer london,11
+E09000012,Hackney,E13000001,Inner London,12
+E09000013,Hammersmith and Fulham,E13000001,Inner London,13
+E09000014,Haringey,E13000001,Inner London,14
+E09000015,Harrow,E13000002,Outer london,15
+E09000016,Havering,E13000002,Outer london,16
+E09000017,Hillingdon,E13000002,Outer london,17
+E09000018,Hounslow,E13000002,Outer london,18
+E09000019,Islington,E13000001,Inner London,19
+E09000020,Kensington and Chelsea,E13000001,Inner London,20
+E09000021,Kingston upon Thames,E13000002,Outer london,21
+E09000022,Lambeth,E13000001,Inner London,22
+E09000023,Lewisham,E13000001,Inner London,23
+E09000024,Merton,E13000002,Outer london,24
+E09000025,Newham,E13000001,Inner London,25
+E09000026,Redbridge,E13000002,Outer london,26
+E09000027,Richmond upon Thames,E13000002,Outer london,27
+E09000028,Southwark,E13000001,Inner London,28
+E09000029,Sutton,E13000002,Outer london,29
+E09000030,Tower Hamlets,E13000001,Inner London,30
+E09000031,Waltham Forest,E13000002,Outer london,31
+E09000032,Wandsworth,E13000001,Inner London,32
+E09000033,Westminster,E13000001,Inner London,33
